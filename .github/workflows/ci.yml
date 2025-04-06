@@ -26,4 +26,4 @@ jobs:
     steps:
       - name: Déclencher le déploiement sur Render
         run: |
-          curl -X POST "https://api.render.com/deploy/https://api.render.com/deploy/srv-cvp3qpa4d50c73bnotcg?key=zy7cxGQgnaM
+          curl -X POST "https://api.render.com/deploy/srv-cvp3qpa4d50c73bnotcg?key=zy7cxGQgnaM
